@@ -1,7 +1,7 @@
 
 # Airshow Calendar
 
-Welcome to the **Airshow Calendar** project! This is a personal passion project developed by [DevelopedByAlex](https://github.com/DevelopedByAlex). The project aims to provide a comprehensive and dynamic calendar of airshows, primarily focusing on events in the United Kingdom.
+Welcome to the **Airshow Calendar** project! This is a personal passion project. The project aims to provide a comprehensive and dynamic calendar of airshows, primarily focusing on events in the United Kingdom.
 
 ## Project Overview
 
@@ -21,7 +21,7 @@ The Airshow Calendar project consists of:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/DevelopedByAlex/airshow-calendar.git
+   git clone https://github.com/DevelopedByAlex/airshowcalendar.git
    ```
 2. **Open the Project**: Navigate to the project directory and open `index.html` in your preferred web browser.
 
